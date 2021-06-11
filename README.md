@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAEhGJ283XU/GDQ-z-DrGl752ju2ee4uYQ/view?utm_content=DAEhGJ283XU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink&mode=preview)]
+![MasterHead](https://github.com/AmritaBharti/AmritaBharti/blob/main/git_banner.png)
 <h1 align="center">Hi 👋, I'm Amrita Bharti</h1>
 <h3 align="center">A passionate Software Developer who loves exploring new field.</h3>
 
