@@ -8,7 +8,8 @@
 
 - 💬 Ask me about **Anything about FullStack**
 
-- 📫 How to reach me **amritasharma1214@gmail.com,[LinkedIn-@link](https://www.linkedin.com/in/amrita-bharti-80299a1b8/)**
+- 📫 How to reach me amritasharma1214@gmail.com,
+- [LinkedIn-@link](https://www.linkedin.com/in/amrita-bharti-80299a1b8/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
