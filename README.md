@@ -16,7 +16,7 @@
 <a href="https://codepen.io/amrita bharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="amrita bharti" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amrita-bharti-80299a1b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amrita bharti" height="30" width="40" /></a>
 <a href="https://kaggle.com/amrita bharti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="amrita bharti" height="30" width="40" /></a>
-<a href="https://instagram.com/amritabhartisharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amritabhartisharma" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
