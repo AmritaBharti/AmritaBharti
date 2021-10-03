@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Bank Loan Pridiction**
 
-- 💬 Ask me about **Anything about FullStack**
+- 💬 Ask me  **Anything about FullStack**
 
 - 📫 How to reach me amritasharma1214@gmail.com,
 - [LinkedIn-@link](https://www.linkedin.com/in/amrita-bharti-80299a1b8/)
